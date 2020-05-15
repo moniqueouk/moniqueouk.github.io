@@ -6,8 +6,6 @@ import {
 } from "react-router-dom";
 import './index.css';
 import Home from "./Home";
-import Stuff from "./Stuff";
-import Contact from "./Contact";
  
 class Main extends Component {
   render() {
@@ -19,15 +17,15 @@ class Main extends Component {
                 <div style={{fontSize: '15px', letterSpacing: '1px', textTransform: 'lowercase'}}>
                     <NavLink exact to="/" activeClassName="navi">portfolio</NavLink>
                     &nbsp; 
-                    <NavLink to="/monique" activeClassName="navi">about</NavLink>
+                    <NavLink to="/" activeClassName="navi">about</NavLink>
                     &nbsp; 
-                    <NavLink to="mailto:oukm@stanford.edu" activeClassName="navi">contact</NavLink>
+                    <NavLink to="/"navi">contact</NavLink>
                 </div>
             </div>
             <div className="content">
                 <Route exact path="/" component={Home}/>
-                <Route path="/monique" component={Stuff}/>
-                <Route path="/contact" component={Contact}/>
+                <Route path="/" component={Home}/>
+                <Route path="/" component={Home}/>
             </div>
 
         </HashRouter>
