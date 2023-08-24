@@ -14,11 +14,6 @@ class Main extends Component {
         <HashRouter>
             <div class="bigText2">
                 Monique Ouk
-                <div style={{fontSize: '15px', letterSpacing: '1px', textTransform: 'lowercase'}}>
-                    <NavLink exact to="/" activeClassName="navi">portfolio</NavLink>
-                    &nbsp; 
-                    <NavLink to="/" activeClassName="navi">about</NavLink>
-                </div>
             </div>
             <div className="content">
                 <Route exact path="/" component={Home}/>
