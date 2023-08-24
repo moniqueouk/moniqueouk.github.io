@@ -13,7 +13,7 @@ class Main extends Component {
         // define routing region
         <HashRouter>
             <div class="bigText2">
-                Monique Ouk
+                Monique Ouuk
             </div>
             <div className="content">
                 <Route exact path="/" component={Home}/>
