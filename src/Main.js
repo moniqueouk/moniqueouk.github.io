@@ -18,8 +18,6 @@ class Main extends Component {
                     <NavLink exact to="/" activeClassName="navi">portfolio</NavLink>
                     &nbsp; 
                     <NavLink to="/" activeClassName="navi">about</NavLink>
-                    &nbsp; 
-                    <NavLink to="/"navi">contact</NavLink>
                 </div>
             </div>
             <div className="content">
