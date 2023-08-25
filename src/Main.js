@@ -10,7 +10,7 @@ import FarmPage from "./FarmPage"; // Import the FarmPage component
 import SF2019 from "./SF2019"; // Import the SF2019 component
 import KNY from "./KNY"; // Import the SF2019 component
 import Reyes from "./Reyes";
-import Stanford from "./Stanford"
+import Stanford from "./Stanford";
 
 class Main extends Component {
   render() {
@@ -22,7 +22,7 @@ class Main extends Component {
                 <div class="nav">
                     <NavLink exact to="/" activeClassName="active-link">Portfolio</NavLink>
                     <NavLink exact to="/farm" activeClassName="active-link">Farm</NavLink>
-                    <NavLink exact to="/sf19" activeClassName="active-link">Bay Area</NavLink>
+                    <NavLink exact to="/sf19" activeClassName="active-link">Bay</NavLink>
                     <NavLink exact to="/kny" activeClassName="active-link">hills</NavLink>
                     <NavLink exact to="/reyes" activeClassName="active-link">pt. reyes</NavLink>
                     <NavLink exact to="/stanford" activeClassName="active-link">Stanford</NavLink>
