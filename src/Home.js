@@ -18,6 +18,8 @@ class Home extends Component {
 
 
                     <img src="https://lh3.googleusercontent.com/IYlnzfEgcRoyvVB_HkmzYwW7sfvHzdVG2TW_4xvdT8lm0ZM3zKCctXUWVKo7sq0o8OaG8RM0aSVUaQ1InXvcbzLur5mque_BIgBSB6gXa9dYY3P5b4u9_rcU3MEm0Dwuh7Ozy4nbIYKcuS1HSyRw7KAGgBvo7ructz4wm0S2zHcHwF33L6z3RrzI5cdWTuxtV0Nje5hkVIwVvM5v0RiMTS6DBFlpoFadh92hxAKT0SQ4DSlgaE3z4xBT6T-yjzj72iCJqm4Cej9oUBHjIIQxm-IhRUqGMO7gTrFrtH1zuE_1nW0N8fXL3dpN9_iVB1ye3zAaE4embJBi1FuFwq_jFfVSpOQMfqKLftOtMD-mpCiG_TSrsCUq9LqC-ALMa2pctabCiSiKPJX1gxaFQN4YZctCw5X-1OnFHfsTkORZets-FoFnpytQ9eru4BAJ3_YkSRwnB9Ckzkz_ZSe0oUA_rF-MM_ybEs9wAgJyuoCsl_h3JIESzgU60k_ukJVg5PJ4WGk_DUW7U9bIVxPT6yoaJ7JI7ORZrJc_xHOliZW2lvRvuh_or_PrIS85VPRwKkZj_yqtJdQ-7GnGmSgZ-cJTvAg2nw7Fq9p3EHbaSiIXOsSJ9Uy6I-AiuwRRFDN8aCXu1-6frOvYQ46lHVE5s4sT3UHnjhtysNWGNw7og4cl72BGrxCbm1R6zaScSkZHo8LZdD2Sa9RZNrUO54CLLd0pM5naog1vI-AwHa3Og9P-kv8fBf5h=w1214-h1516-no" alt="adrian grad"/>
+                    <img src={ require('./img/church.jpg') } />
+                    <img src={ require('./img/jason.jpg') } />
                     <img src="https://lh3.googleusercontent.com/pw/AIL4fc_S_HTgUp4deocQ-m9e-iJwgZSeVrySacuw7xPPvv698e-Au9GexpZinUkTLZkp4cQ0QA_1KJvXeHYh0mWhoWubUoLSXaWnQRCGzaTy-pPgYpc6IArSnujBeJdQkA8JrZL6osg0klBFu5_S5T5lvvT-9w=w1478-h1912-s-no?authuser=0" alt="jinhee"/>
 
                     <img src="https://lh3.googleusercontent.com/pw/AIL4fc8dMaNYtzgQsXz1lGtwAQChcWPT1N8PYR2emmd1Ev8lsyDVsjCziRxtys2_P2k2i8O_XwXSekRC9PbJpsk6943xie7ewTvuWoKuaYyyobO8lBTsmv9s-KtG5VqwJuZFsIf3kv6kmYv3uiSW0q8FRj4dBQ=w2868-h1912-s-no?authuser=0" alt="sampors"/>
@@ -34,15 +36,16 @@ class Home extends Component {
                     <img src="https://lh3.googleusercontent.com/xSyqfnaURHZyfPfyzszsqWBOFHq8olgqMDQxpODk3xALd4YRfld4fccU0HqRrl-BbMtnwEmD1AzAyt6mAULxVYu8uc30hyvxOl4fy4Bn0pSuAF2eUy4uwxKbNhVTQ7_4f2J7sgF7eiaPUDmxbWXjWiU3WsUz0LSjpY1Yu7r9JHqW6QtYL19V30d_zl_P7mUx2_IAPPeowN1fqOOZpqAtT1Wsfv3SXe4KSZa0lFnY_NN6nO_VE4a-mFXYtDOvyqxnw1dH8cahj3PiT044ZNFIKvd9DfHTqKJmoYH_MGnQ_0C4tzaHBex0LOA5ekLf56SSuwyg0KOQiXrry8W5zuT_wGqH8UqGEnnL35G1MQySH9P6kSQj7n4YQX93ntnqicvwY1USfF8x8lVCRAmKwXtmK6ZqV5Ppe7SvDwrnwZA0X-rgWpbZT9JLk6S6r3xsMTafnsy7iAeswQsrco22jns8EpirQ4hYEUPP4PRwh4KF71Fawpp1dabWIjSz--d5mhfVheVZUIqxKQUFnkoV6wzV5tH5FjMs8_ZAasvD9AEu7gjF8K1qsA2zFcHA8vzDJglyoKFo4GjIQgyPNSJC_d-1T-UUI6MFlLCPpZWLRcLeuHgvytnHvv3thvwZ1O3V6UozGAP1WZynqwCccPs1jOXERr5m-bSF5LNO2PStrrHWduRTSUU4zLdt30_j9NSN5H1531Yi2Woszhyd1Kuzx3H-qyk4yVDpl9wIlU3ZPByY984EBEU_=w2280-h1520-no" alt="cow"/>
                     
                     <img src="https://66.media.tumblr.com/eab3f236866f0a4e53a676867e1c707e/tumblr_oy8pftxmuv1s29yaso2_1280.jpg" alt="jason"/>                       
-
+                    <img src={ require('./img/ashland.jpg') }/>
+         
                     <img src={ require('./img/dylan.jpg') } />
 
                     <img src="https://lh3.googleusercontent.com/pw/AIL4fc_pxojMzKC_0FVzdjp2-KOiX3EzcAxGVaQD4rtxL4Fv6kGilV2YcKx8pbcuyDEmTrNfYU9EEaeEVqlB9c52G6y3dIyXlfoCUplsu-P44Rv5DvIUUDCIepnAdA5q6lK8xK4zIfIC85KccP6aJAeQdFlMNA=w1526-h1912-s-no?authuser=0"alt="ashley2"/>
                    
-                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-pvw57pbMrdiUSScvAl2JcK1JLYZNyH7isr2v_9lVENj1G44uS-weIAiRaiIoIL8jlM79az0xinJd9DdjyE74MEkbhBPIQ375TdNez5yVBzJMhruVMAAEahCcPiSdyqXLLzYsMrETea8zeOV2lW5tP_Q=w2048-h1365-s-no?authuser=0"/>     
+                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-pvw57pbMrdiUSScvAl2JcK1JLYZNyH7isr2v_9lVENj1G44uS-weIAiRaiIoIL8jlM79az0xinJd9DdjyE74MEkbhBPIQ375TdNez5yVBzJMhruVMAAEahCcPiSdyqXLLzYsMrETea8zeOV2lW5tP_Q=w2048-h1365-s-no?authuser=0" alt="SAEgoldenhour"/>     
 
                     <img src="https://lh3.googleusercontent.com/HhqKmluc3CzrxQ6IpQqGJvbT8Ou6Fyt5h9N1-mMgiMVTeL2LPUzAleqfN2mL96fwDkm66zA7drrLRbMDCw1OzGjcTv0nXgREaAvTNnjDDUlS1rDOagFqdoVcC8lHwXdsdu89ZpV8aJ7yNrjiNnoOlv0MdCW1lt-M_yEbIoiFFtoPPiGTbuSxsL2XKsidKdn03WsrsxcZ_U_rbsZPyeHqvh20e0Pk3zX-sLeqz46AZjZSIo6FUHpePauLediiBHLzjaJ-M2NJMfZNeWmepHuNDSlVnuSpSzyo6USBh16JXyfyIE8wMR60OwYU0dhcGr_B7oG35nTAC7xpkNG4zpMc5FgywCpmsdSUr9c5eqzgdsG1XEySlHGF7tC3HEbrVkN1yu5l_vRkLjkZleT9IFZX7MP3ReBltXc2iF21JQ4suezLBM7KV5rHEGUIBt6SZDELVT5g2A_NHkzgL9aauBEiUmcxVb9Y-GWaHchP4om7ETxsxipgkzgv8QsQZw3lCrBQnYmYVuqzamYKdmh0NZD6sATsgEI-codZ3Mi6cUiq2-lkDx16RtthvHNPqx-MH8mej1GNG5Xtk4VD-9Amz-6DjX5XUavc5yp0rmQFMD3fzU0X18-jcunTab_LX8HBtp0ysmeAJxKs3KKTJrNQvLJwGuF0vNgpZlWpTfgI_c5N1luG0lJx1THE6nC7SP_ne22KHuCXEBFp8iUAjva_u8G2l_JXBPL5chE1bo1psGY4DndiX55M=w1012-h1516-no" alt="cs god akshay"/>
-
+                    <img src={ require('./img/brian.jpg')}/>
                     <img src="https://lh3.googleusercontent.com/pw/AIL4fc9D-ngWiixoJExM5WCasa7HjlnPE_elvU-aeaE98unAqtO1zZvKTYcEOh8kKWue8vtFMQ__6G7gOqjJHAT3IL_yGwW_NkOcSQvrTwDbUqip0B0LZn7K64XGh9PT0qTRxj8DYnV7RyuP_-nAleNe90qQEA=w2868-h1912-s-no?authuser=0" alt="lizzie"/>
                     <img src="https://lh3.googleusercontent.com/pw/AIL4fc9OqRuqiYPwpIbdY0OomHh6cIAeDLvg-sx0rZ_RDKuD4YGudkaFZoeIvUvMr1DYCqUTu6UgeVaydqtOPbD2SVOkTS9U9YTp9fZedBO_due0jL-7fcO11cX5NgrDkOUUQmx03V_JXAwtpTmMVv0uVE31Tg=w1274-h1912-s-no?authuser=0"alt="sippers"/>
 
@@ -51,7 +54,8 @@ class Home extends Component {
                     <img src="https://lh3.googleusercontent.com/ntuDBwOEl2pqazeOHZ2RwT4w4y3w3noeMfEsZXBg_4WcD8TyqHgE1iB3yMfOC_DvoGLua5XRswqUYndghepOy8wzpdBExpUK0LdMEaN295zLHf5DinfmSPAWUmXJpZoJNXU8pwHf8MHfAJtlrI9rzLIF4TYYjAlFbJPOmReirnDmI3gKolZg5JVxIDMjMC2r7gz4TTeNqTDTZfdAhRfuK-YKZVHgi_SzULwonMaFD-ZBteKW4fzYf_VUpV8WFv0dEvErhpzG1UAAIcPVZsiY0t0FSZjULlzm6k5U4FASurfcV63hwMNPQUGYBccqPinT2fSrkUkUJFbKStoBNZLpWnNZBhySdKkU68yMak5_-tfdyEQx912lJPKoE-Du9TQCHOgv9KxYpNJG-BZ1mv05XCmFqp4IF13UKyCkFfwxqQ0dW0DIJyEoG18f4RTGsRiNmRZrgdh9Cxo5hG72qa3qoyjh-gXIYbWx2BArZ5qwrgnogga3L6c27uq_X_PvXUlxfnkBcUV8Z4G9DJYoFniipczQbloqqEyk36mMkatmPTD8CSGGyVobhvJH8lIkv2d7tpMejJLL0TJu3usZUhwQ7byqafQiqdE-uMeTYPR6268lfgRD45BGMfJe2JqYkunY8WKZ-zz1i1ALThgs4ub10us895ls6y0Z0m6si_Bg7AVilaPtZmTr7iVmbIJ7dLPcOiYjBcOCmGeRgzurzK8GQFRJtm1PBW6YIFT1ar41X7wfFsft=w1968-h1520-no" alt="justine"/>
 
                     <img src="https://lh3.googleusercontent.com/eblgEsp4u_Y4ukzuGaiBxmm_fjYh9VzkWu7XQNZMML1TLiIUqryZqKQynm7RsE6LfA12nqOHla7IAxnYYODNCjvv4XsA-c5gFUMT8g2GPrP6XEoJ-nxAWxsK3_UwLPtYEr5Z8ZxxL3lc_2Vo8RJYDTxjRP-dOg4tYUqd8fjJwktKPpqHQ0dJYyM0fE7Wi9v-FWsFOipUI4gZhF1KeQe7UgOrrkeC5AaP3XaLFfO6t0z6wG0iFJbzYCpGaDGoQZw_TfWK2-6GhsjD2LGuqQlfnloCtSy5yC5ZI7vwyKYGAH3_X7ogB8GsOd7J3kexq4CD9mo4THmyZ9d2BrSdo3eCfaYW5Yp-s37YgoFTfCqesHs5ruTI4y_7uzJCW6crS-JXnlILHZDPddQ0FW_TFF31UucUZYpBI2RcmuDbi3Hmlp1nkwV257P7_7d5j1QiyEnuwP5lJiUAt0xDpl5THeWgeQub2SInXWufCaUr9LMc9uVlpXBR7AwWz2zCX7tlvXrHEnnMMhFYSG633A0utLNIY6m4ZsdqbsMgZpNONGVWJszt7FXvf5iRilN0Br4LJ_4irgR8KJkxdoUjfSO2-29H2o2NkWK4rJ2XTPlRx7s8DDzF_2ybLGYTfQC9v_r7puvxnHC9fksUjcc3dHS9JxEiLqOJswPRCXrqo0iBuRzeOnvHWy1owAMkQKi8NrFTMQLo6pp3ONrYYX5LvnL5cUOUUlB3svizsScrHMAEwrcSW0u3aCs=w1898-h1518-no" alt="sarah johnson"/>
-
+                    
+         
                 </div>
         );
     }
