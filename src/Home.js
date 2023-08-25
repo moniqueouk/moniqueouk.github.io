@@ -37,12 +37,13 @@ class Home extends Component {
                     
                     <img src="https://66.media.tumblr.com/eab3f236866f0a4e53a676867e1c707e/tumblr_oy8pftxmuv1s29yaso2_1280.jpg" alt="Jason in water, Half Moon Bay"/>                       
                     <img src={ require('./img/ashland.jpg') } alt="Adam and Helen, listening to a story"/>
-         
+                    <img src={ require('./img/tam.jpg') } alt="A couple kissing on the top of Mt. Tam, sunset"/>
+
                     <img src={ require('./img/dylan.jpg') } alt="Dylan sitting on a superbloomed hill" />
 
-                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc_pxojMzKC_0FVzdjp2-KOiX3EzcAxGVaQD4rtxL4Fv6kGilV2YcKx8pbcuyDEmTrNfYU9EEaeEVqlB9c52G6y3dIyXlfoCUplsu-P44Rv5DvIUUDCIepnAdA5q6lK8xK4zIfIC85KccP6aJAeQdFlMNA=w1526-h1912-s-no?authuser=0"alt="ashley2" alt="Ashley's grad photo, behind Green Library"/>
+                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc_pxojMzKC_0FVzdjp2-KOiX3EzcAxGVaQD4rtxL4Fv6kGilV2YcKx8pbcuyDEmTrNfYU9EEaeEVqlB9c52G6y3dIyXlfoCUplsu-P44Rv5DvIUUDCIepnAdA5q6lK8xK4zIfIC85KccP6aJAeQdFlMNA=w1526-h1912-s-no?authuser=0"alt="ashley2" alt="Ashley's grad, behind Green Library"/>
                    
-                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-pvw57pbMrdiUSScvAl2JcK1JLYZNyH7isr2v_9lVENj1G44uS-weIAiRaiIoIL8jlM79az0xinJd9DdjyE74MEkbhBPIQ375TdNez5yVBzJMhruVMAAEahCcPiSdyqXLLzYsMrETea8zeOV2lW5tP_Q=w2048-h1365-s-no?authuser=0" alt="SAE couple getting their photo taken, golden hour"/>     
+                    <img src="https://lh3.googleusercontent.com/pw/AIL4fc-pvw57pbMrdiUSScvAl2JcK1JLYZNyH7isr2v_9lVENj1G44uS-weIAiRaiIoIL8jlM79az0xinJd9DdjyE74MEkbhBPIQ375TdNez5yVBzJMhruVMAAEahCcPiSdyqXLLzYsMrETea8zeOV2lW5tP_Q=w2048-h1365-s-no?authuser=0" alt="SAE couple being photographed, golden hour"/>     
 
                     <img src="https://lh3.googleusercontent.com/HhqKmluc3CzrxQ6IpQqGJvbT8Ou6Fyt5h9N1-mMgiMVTeL2LPUzAleqfN2mL96fwDkm66zA7drrLRbMDCw1OzGjcTv0nXgREaAvTNnjDDUlS1rDOagFqdoVcC8lHwXdsdu89ZpV8aJ7yNrjiNnoOlv0MdCW1lt-M_yEbIoiFFtoPPiGTbuSxsL2XKsidKdn03WsrsxcZ_U_rbsZPyeHqvh20e0Pk3zX-sLeqz46AZjZSIo6FUHpePauLediiBHLzjaJ-M2NJMfZNeWmepHuNDSlVnuSpSzyo6USBh16JXyfyIE8wMR60OwYU0dhcGr_B7oG35nTAC7xpkNG4zpMc5FgywCpmsdSUr9c5eqzgdsG1XEySlHGF7tC3HEbrVkN1yu5l_vRkLjkZleT9IFZX7MP3ReBltXc2iF21JQ4suezLBM7KV5rHEGUIBt6SZDELVT5g2A_NHkzgL9aauBEiUmcxVb9Y-GWaHchP4om7ETxsxipgkzgv8QsQZw3lCrBQnYmYVuqzamYKdmh0NZD6sATsgEI-codZ3Mi6cUiq2-lkDx16RtthvHNPqx-MH8mej1GNG5Xtk4VD-9Amz-6DjX5XUavc5yp0rmQFMD3fzU0X18-jcunTab_LX8HBtp0ysmeAJxKs3KKTJrNQvLJwGuF0vNgpZlWpTfgI_c5N1luG0lJx1THE6nC7SP_ne22KHuCXEBFp8iUAjva_u8G2l_JXBPL5chE1bo1psGY4DndiX55M=w1012-h1516-no" alt="Askhay standing in a field of light"/>
                     <img src={ require('./img/brian.jpg')} alt="Brian running towards shore, Ocean Beach"/>

@@ -2,10 +2,12 @@ import React, { Component } from "react";
 import {
     Route,
     NavLink,
-    HashRouter
+    HashRouter,
 } from "react-router-dom";
 import './index.css';
 import Home from "./Home";
+import FarmPage from "./FarmPage"; // Import the FarmPage component
+
  
 class Main extends Component {
   render() {
@@ -18,7 +20,7 @@ class Main extends Component {
             <div className="content">
                 <Route exact path="/" component={Home}/>
             </div>
-
+            <Route path="/farm" component={FarmPage} /> {/* Add the FarmPage route */}
         </HashRouter>
     );
   }
