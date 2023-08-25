@@ -1,5 +1,5 @@
 import React, { Component } from "react";
-import './Farm.css';
+import './css/Farm.css';
 
 const FarmPage = () => {
     return (
