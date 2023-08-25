@@ -1,0 +1,61 @@
+#pics {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    line-height: 0;
+    margin-top:-20px;
+}
+#pics img {
+    height: 100vh;
+    margin-top: 20px;
+    width: 100% !important;
+    height: auto !important;
+}
+#pics img:hover {
+    background: black;
+    opacity: 1;
+    z-index:999999;
+    transition: 0.5s ease;
+}           
+/* special shoutout to my iphone 5 bitches */
+/* (phones, 667px and down) */
+ @media screen and (max-width: 667px) {
+     #homeBackground {
+       font-size:57px;
+     } 
+     #pics {
+        width: 100vw important;
+        height: auto !important;
+        -webkit-column-count: 1;
+        -moz-column-count: 1;
+        -moz-column-gap: 1px;
+        column-count: 1;
+     }
+     #pics img {
+      /** width: 100vh; **/
+
+        height: auto !important;
+        width: 100vw;
+     }
+ }
+
+ /* Small devices (600px and up) */
+ @media only screen and (min-width: 600px) {
+     #homeBackground {
+       font-size:95px;
+     } 
+ }
+ 
+ 
+ /* if screen width larger column */
+@media only screen and (min-width: 600px) {
+   #pics {
+        width: 92%;
+        -webkit-column-count: 2;
+        -webkit-column-gap: 7px;
+        -moz-column-count: 2;
+        -moz-column-gap: 7px;
+        column-count: 2;
+        column-gap: 20px;
+   }
+}
