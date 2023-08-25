@@ -12,6 +12,7 @@ body {
     font-family: sans-serif;
   }
   .content {
+    margin-top:30px;
     background-color: #FFF;
     padding: 20px;
   }
@@ -71,7 +72,6 @@ img {
      font-weight: lighter;
      font-family: 'Montserrat', sans-serif;
      font-style: light;
-     text-transform:lowercase;
      padding: 4px;
      margin-top:45px;
      margin-bottom:-30px; 
