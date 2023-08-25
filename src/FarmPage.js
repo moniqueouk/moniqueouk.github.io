@@ -12,7 +12,7 @@ const FarmPage = () => {
             <img src={ require('./img/farm/orpington.jpg') } alt="Buff orpington in golden hour"/>
             <img src={ require('./img/farm/orpington2.jpg') } alt="Buff orpington walking past chicken coop"/>
             <img src={ require('./img/farm/sexlink.jpg') } alt="Orange chicken walking past chicken coop"/>
-            <img src={ require('./img/farm/sexlink.jpg') } alt="Buff orpington walking past chicken coop"/>
+            <img src={ require('./img/farm/ari.jpg') } alt="Orange chicken walking past chicken coop"/>
             <img src={ require('./img/farm/jason.jpg') } alt="Jason with a flower crown :)"/>
         </div>
     );
