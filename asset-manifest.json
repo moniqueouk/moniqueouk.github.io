@@ -1,11 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.e2d58613.css",
-    "main.js": "/static/js/main.1694a6b5.js",
+    "main.js": "/static/js/main.85e8efb7.js",
     "static/media/shadow.jpg": "/static/media/shadow.cafc55bc2817eb18d264.jpg",
+    "static/media/church.jpg": "/static/media/church.17b7ddb6662aac63ae01.jpg",
     "static/media/matthew.jpg": "/static/media/matthew.df96835e9855d025a03a.jpg",
     "static/media/eggplant.jpg": "/static/media/eggplant.7dc27a382d74a9f10031.jpg",
+    "static/media/ashland.jpg": "/static/media/ashland.450bbb1a3f55e34a884b.jpg",
     "static/media/ashley.jpg": "/static/media/ashley.0997a1a2624c2c3de647.jpg",
+    "static/media/brian.jpg": "/static/media/brian.8a3a1f9efbe84d7044cc.jpg",
     "static/media/dylan.jpg": "/static/media/dylan.605ec1cc9c3cc94f1dc4.jpg",
     "static/media/rainier.jpg": "/static/media/rainier.8297a6f4b73b6813a8d5.jpg",
     "static/media/oysters.jpg": "/static/media/oysters.3b6f9e4976a3c2c4e3b8.jpg",
@@ -13,12 +16,13 @@
     "static/media/stanfordfarm.jpg": "/static/media/stanfordfarm.4ae6d8a71455069218a3.jpg",
     "static/media/bo.jpg": "/static/media/bo.d88728cf6f6ea75a6809.jpg",
     "static/media/sae.jpg": "/static/media/sae.362f3223a9348ae40a8f.jpg",
+    "static/media/jason.jpg": "/static/media/jason.e881facf1908042ef45a.jpg",
     "index.html": "/index.html",
     "main.e2d58613.css.map": "/static/css/main.e2d58613.css.map",
-    "main.1694a6b5.js.map": "/static/js/main.1694a6b5.js.map"
+    "main.85e8efb7.js.map": "/static/js/main.85e8efb7.js.map"
   },
   "entrypoints": [
     "static/css/main.e2d58613.css",
-    "static/js/main.1694a6b5.js"
+    "static/js/main.85e8efb7.js"
   ]
 }
