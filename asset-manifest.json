@@ -1,8 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.17e6a0e1.css",
-    "main.js": "/static/js/main.a70fb686.js",
+    "main.js": "/static/js/main.917f8740.js",
+    "static/media/minaleila2.jpg": "/static/media/minaleila2.366eee71d7dbc0b077fe.jpg",
+    "static/media/minmin.jpg": "/static/media/minmin.50926ba9c1ca2bb0293f.jpg",
     "static/media/shadow.jpg": "/static/media/shadow.cafc55bc2817eb18d264.jpg",
+    "static/media/lakelag.jpg": "/static/media/lakelag.4aa63e8adf57b2949578.jpg",
     "static/media/IMG_2378.jpg": "/static/media/IMG_2378.57d86682520e4184c8cc.jpg",
     "static/media/IMG_2182.jpg": "/static/media/IMG_2182.3ce1a3acaebaa2d5ca74.jpg",
     "static/media/IMG_2254.jpg": "/static/media/IMG_2254.17b7ddb6662aac63ae01.jpg",
@@ -25,6 +28,7 @@
     "static/media/IMG_2162.jpg": "/static/media/IMG_2162.3d88181c3b11d7f4baaf.jpg",
     "static/media/IMG_2159.jpg": "/static/media/IMG_2159.f755251716e85f1bd18d.jpg",
     "static/media/IMG_2466.jpg": "/static/media/IMG_2466.cda322c297da4d6d1a35.jpg",
+    "static/media/farm.jpg": "/static/media/farm.9071a75d4afc62dce197.jpg",
     "static/media/dylan.jpg": "/static/media/dylan.605ec1cc9c3cc94f1dc4.jpg",
     "static/media/IMG_2431.jpg": "/static/media/IMG_2431.bfec01ab1f272e0fd476.jpg",
     "static/media/rainier.jpg": "/static/media/rainier.8297a6f4b73b6813a8d5.jpg",
@@ -33,7 +37,10 @@
     "static/media/IMG_8528.jpg": "/static/media/IMG_8528.90905ea1852e52c5ff51.jpg",
     "static/media/IMG_5990.jpg": "/static/media/IMG_5990.e886405a12c501f40276.jpg",
     "static/media/chickens.jpg": "/static/media/chickens.84f6da58ffde73b940eb.jpg",
+    "static/media/fieldhockey.jpg": "/static/media/fieldhockey.c55e4475e0be47618c69.jpg",
     "static/media/IMG_8555.jpg": "/static/media/IMG_8555.7b620925db62c75eedb4.jpg",
+    "static/media/jack.jpg": "/static/media/jack.264392fa1197b86c0cd2.jpg",
+    "static/media/bearial.jpg": "/static/media/bearial.733f2bd9331cc7046ea0.jpg",
     "static/media/eggplant2.jpg": "/static/media/eggplant2.cf72486b55891e9ba60a.jpg",
     "static/media/favorite.jpg": "/static/media/favorite.d71754a688e9e8b714fe.jpg",
     "static/media/stanfordfarm.jpg": "/static/media/stanfordfarm.4ae6d8a71455069218a3.jpg",
@@ -46,14 +53,18 @@
     "static/media/orpington.jpg": "/static/media/orpington.d8efd5fbc55389337179.jpg",
     "static/media/nugget.jpg": "/static/media/nugget.fb0cc1e3b80b85fd3f88.jpg",
     "static/media/sae.jpg": "/static/media/sae.362f3223a9348ae40a8f.jpg",
+    "static/media/frosh1.jpg": "/static/media/frosh1.0ca8c4629194c3c3cdeb.jpg",
     "static/media/ari.jpg": "/static/media/ari.8a34544b8117232c753b.jpg",
+    "static/media/frosh2.jpg": "/static/media/frosh2.7c7e1ad070b611b2b77e.jpg",
+    "static/media/pip.jpg": "/static/media/pip.24701a3735f13ba8e5c8.jpg",
+    "static/media/tahoe.jpg": "/static/media/tahoe.7f2f7522243b21b85cf4.jpg",
     "static/media/tam.jpg": "/static/media/tam.62ca1d1e962496f5a8f1.jpg",
     "index.html": "/index.html",
     "main.17e6a0e1.css.map": "/static/css/main.17e6a0e1.css.map",
-    "main.a70fb686.js.map": "/static/js/main.a70fb686.js.map"
+    "main.917f8740.js.map": "/static/js/main.917f8740.js.map"
   },
   "entrypoints": [
     "static/css/main.17e6a0e1.css",
-    "static/js/main.a70fb686.js"
+    "static/js/main.917f8740.js"
   ]
 }
